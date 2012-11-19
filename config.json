@@ -1,0 +1,12 @@
+{
+    "name": "IterationScopeChange",
+    "className": "CustomApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "1.29",
+    "javascript": [
+        "IterationScopeChange.js"
+    ],
+    "css": [
+        "IterationScopeChange.css"
+    ]
+}
